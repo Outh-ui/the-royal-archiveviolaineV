@@ -1,0 +1,161 @@
+{
+  "motion": [
+    {
+      "src": "assets/motion-gallery/animation.mp4",
+      "title": "animation",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321100.mp4",
+      "title": "document 6017057269672321100",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321101.mp4",
+      "title": "document 6017057269672321101",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321102.mp4",
+      "title": "document 6017057269672321102",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321103.mp4",
+      "title": "document 6017057269672321103",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321107.mp4",
+      "title": "document 6017057269672321107",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321108.mp4",
+      "title": "document 6017057269672321108",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321109.mp4",
+      "title": "document 6017057269672321109",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321135.mp4",
+      "title": "document 6017057269672321135",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321138.mp4",
+      "title": "document 6017057269672321138",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321141.mp4",
+      "title": "document 6017057269672321141",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321142.mp4",
+      "title": "document 6017057269672321142",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/document_6017057269672321148.mp4",
+      "title": "document 6017057269672321148",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/IM_4127.MP4",
+      "title": "IM 4127",
+      "description": ""
+    },
+    {
+      "src": "assets/motion-gallery/IMG_4127.MP4",
+      "title": "IMG 4127",
+      "description": ""
+    }
+  ],
+  "residences": [
+    {
+      "image": "assets/residences/القصر الملكي.jpg",
+      "title": "القصر الملكي",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/تصاميم فايولاين (2).jpg",
+      "title": "تصاميم فايولاين (2)",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/تصاميم فايولاين (3).jpg",
+      "title": "تصاميم فايولاين (3)",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/تصاميم فايولاين.jpg",
+      "title": "تصاميم فايولاين",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/خارطة اوراليا الملونه.jpg",
+      "title": "خارطة اوراليا الملونه",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/خارطة اوراليا.jpg",
+      "title": "خارطة اوراليا",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/غرفة المعيشه باريس.jpg",
+      "title": "غرفة المعيشه باريس",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/غرفة فايولاين في باريس.jpg",
+      "title": "غرفة فايولاين في باريس",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/غرفة فايولاين في باريس2.jpg",
+      "title": "غرفة فايولاين في باريس2",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/قاعة الاحتفالات اوراليا.jpg",
+      "title": "قاعة الاحتفالات اوراليا",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/قصر باريس.jpg",
+      "title": "قصر باريس",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/قصر فايولاين باريس.jpg",
+      "title": "قصر فايولاين باريس",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/ناطحات سحاب اوراليا (2).jpg",
+      "title": "ناطحات سحاب اوراليا (2)",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/ناطحات سحاب اوراليا (3).jpg",
+      "title": "ناطحات سحاب اوراليا (3)",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/ناطحات سحاب اوراليا (4).jpg",
+      "title": "ناطحات سحاب اوراليا (4)",
+      "description": ""
+    },
+    {
+      "image": "assets/residences/ناطحات سحاب اوراليا.jpg",
+      "title": "ناطحات سحاب اوراليا",
+      "description": ""
+    }
+  ]
+}

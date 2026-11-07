@@ -1,0 +1,32 @@
+name: Update galleries automatically
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'assets/gallery-uploads/**'
+      - 'scripts/build_gallery_manifest.py'
+      - '.github/workflows/update-galleries.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Build gallery manifest
+        run: python3 scripts/build_gallery_manifest.py
+      - name: Commit manifest if changed
+        run: |
+          git add assets/gallery-manifest.json
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Automatically update galleries"
+            git push
+          fi
